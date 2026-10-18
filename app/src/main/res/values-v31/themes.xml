@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.StatusSaver" parent="Theme.StatusSaver.Base">
+        <item name="android:windowSplashScreenBackground">@color/wae_window_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/ic_launcher_background</item>
+        <item name="android:windowSplashScreenAnimationDuration">200</item>
+    </style>
+
+</resources>

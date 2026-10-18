@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Vector foreground: no webp needed, so nothing can go missing. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#25D366"
+        android:fillType="evenOdd"
+        android:pathData="M54,26a28,28 0 1,0 0.001,0zM48,42v24l20,-12z" />
+</vector>

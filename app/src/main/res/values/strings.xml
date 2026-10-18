@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WAE</string>
+
+    <string name="tab_images">Photos</string>
+    <string name="tab_videos">Videos</string>
+    <string name="action_save">Save</string>
+    <string name="action_save_all">Save all</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="empty_state">No statuses found. Open WhatsApp, view a status, then pull to refresh.</string>
+    <string name="open_whatsapp">Open WhatsApp</string>
+
+    <string name="permission_title">Access needed</string>
+    <string name="permission_message">WAE reads the WhatsApp status folders and copies what it finds into your gallery. Nothing leaves the device.</string>
+    <string name="allow_access">Allow access</string>
+    <string name="privacy_note">No internet permission. No ads. No analytics.</string>
+    <string name="saved_successfully">Saved</string>
+    <string name="saved_count">Saved %1$d</string>
+    <string name="save_failed">Could not save</string>
+    <string name="index_reset">Index cleared</string>
+    <string name="need_notifications">Allow notifications so the watcher stays alive</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_auto_save">Auto save</string>
+    <string name="settings_auto_save_desc">Copy every new status into your gallery within seconds.</string>
+    <string name="settings_battery">Unrestricted battery</string>
+    <string name="settings_battery_desc">Stops the system from killing the watcher in the background.</string>
+    <string name="settings_battery_ok">Unrestricted</string>
+    <string name="settings_battery_needed">Optimised - tap to fix</string>
+    <string name="settings_all_files">All files access</string>
+    <string name="settings_all_files_desc">Only needed for the legacy WhatsApp folder layout.</string>
+    <string name="settings_version">Version %1$s</string>
+    <string name="settings_clear_index">Reset saved index</string>
+    <string name="settings_clear_index_desc">Forget fingerprints so every status is offered again.</string>
+
+    <string name="notif_title">WAE is watching</string>
+    <string name="notif_watching">Waiting for new statuses</string>
+    <string name="notif_saved_count">Saved %1$d new status</string>
+    <string name="notif_channel_name">Status watcher</string>
+    <string name="notif_channel_desc">Low-priority ongoing notice while auto save is on.</string>
+
+    <string name="health_no_dirs">WhatsApp status folder not found. Open WhatsApp once and view a status.</string>
+</resources>

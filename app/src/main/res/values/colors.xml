@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ic_launcher_background">#FF121212</color>
+    <color name="ic_launcher_foreground">#FF25D366</color>
+
+    <color name="wae_window_background">#FF0E0E10</color>
+    <color name="wae_surface">#FF16171A</color>
+    <color name="wae_surface_raised">#FF1E1F23</color>
+    <color name="wae_divider">#FF2A2B30</color>
+
+    <color name="wae_on_surface">#FFEDEDEF</color>
+    <color name="wae_on_surface_muted">#FF9A9CA3</color>
+
+    <color name="wae_accent">#FF25D366</color>
+    <color name="wae_accent_dim">#FF1DA851</color>
+    <color name="wae_on_accent">#FF07230F</color>
+
+    <color name="wae_warning">#FFF2B33D</color>
+    <color name="wae_error">#FFE5534B</color>
+    <color name="wae_ok">#FF4ADE80</color>
+
+</resources>

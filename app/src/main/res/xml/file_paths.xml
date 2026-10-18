@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <external-path
+        name="wa_statuses_media"
+        path="Android/media/com.whatsapp/WhatsApp/Media/.Statuses/" />
+    <external-path
+        name="w4b_statuses_media"
+        path="Android/media/com.whatsapp.w4b/WhatsApp/Media/.Statuses/" />
+
+    <external-path name="wa_statuses_legacy" path="WhatsApp/Media/.Statuses/" />
+    <external-path name="w4b_statuses_legacy" path="WhatsApp Business/Media/.Statuses/" />
+
+    <external-files-path name="files" path="." />
+    <cache-path name="cache" path="." />
+
+</paths>
